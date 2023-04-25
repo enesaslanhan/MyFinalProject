@@ -1,0 +1,15 @@
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\obj\Debug\netcoreapp3.1\DateAccess.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\obj\Debug\netcoreapp3.1\DateAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\obj\Debug\netcoreapp3.1\DateAccess.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\obj\Debug\netcoreapp3.1\DateAccess.AssemblyInfo.cs
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\obj\Debug\netcoreapp3.1\DateAccess.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\bin\Debug\netcoreapp3.1\DateAccess.deps.json
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\bin\Debug\netcoreapp3.1\DateAccess.dll
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\bin\Debug\netcoreapp3.1\DateAccess.pdb
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\obj\Debug\netcoreapp3.1\DateAccess.csproj.CopyComplete
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\obj\Debug\netcoreapp3.1\DateAccess.dll
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\obj\Debug\netcoreapp3.1\DateAccess.pdb
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Enes\source\repos\MyFinalProject\DateAccess\bin\Debug\netcoreapp3.1\Core.pdb
